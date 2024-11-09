@@ -28,8 +28,8 @@ import org.springframework.context.annotation.Configuration;
                         url = "http://localhost:8080"
                 ),
                 @Server(
-                        description = "Servidor de Produccion"
-                        //url = "https://cbdf-rca-ejercicio-08.onrender.com"//Poner el link del render
+                        description = "Servidor de Produccion",
+                        url = "https://cbdf-stm-ejercicio-08.onrender.com"//Poner el link del render
                 )
         },
         tags = {
